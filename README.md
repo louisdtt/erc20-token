@@ -1,0 +1,1 @@
+ERC-20 token deployed [here](https://rinkeby.etherscan.io/address/0xc052e81497B462De6Ea8a4792d0e4F59F9692231)
